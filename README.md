@@ -1,6 +1,6 @@
 # Illiquid Supply Floor (ISF)
 
-Chart of the Illiquid Supply Floor (ISF) model (in collaboration with [Will Clemente](https://twitter.com/WClementeIII)) with a modified version of Plan B's Stock-to-Flow (S2F) model. In combination with one another, these models serve as interesting price bands with ISF serving as a floor and S2F serving as a ceiling. 
+Chart of the Illiquid Supply Floor (ISF) model (in collaboration with [Will Clemente](https://twitter.com/WClementeIII)) with a modified version of [Plan B's](https://twitter.com/100trillionUSD) Stock-to-Flow (S2F) model. In combination with one another, these models serve as interesting price bands with ISF serving as a floor and S2F serving as a ceiling. 
 
 - Blue: S2F
 - Maroon: Market
