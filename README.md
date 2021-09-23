@@ -3,8 +3,7 @@
 ![](https://github.com/MattFaltyn/Illiquid-Stock-to-Flow/blob/main/IS2F)
 
 ## Repository Description
-
-Final project of the [HarvardX Professional Certificate in Data Science (completed August 2019)](https://credentials.edx.org/credentials/85a07f51c8ff4172ae9b31ada7f859c5/).
+The Illiquid Stock to Flow model recreates PlanB's S2F model using illiquid Bitcoin supply as defined by Glassnode.
 
 ### Introduction
 The MovieLens dataset was originally collected by GroupLens Research, a research team located in the Department of Computer Science and Engineering at the University of Minnesota. 
