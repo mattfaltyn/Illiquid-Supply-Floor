@@ -1,4 +1,4 @@
-# Illiquid Stock to Flow (I-S2F)
+# Illiquid Supply Floor (ISF)
 
 ![](https://github.com/MattFaltyn/Illiquid-Stock-to-Flow/blob/main/IS2F)
 
