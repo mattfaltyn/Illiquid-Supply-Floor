@@ -1,5 +1,7 @@
 # Illiquid Stock to Flow (I-S2F)
 
+![](https://github.com/MattFaltyn/Illiquid-Stock-to-Flow/blob/main/IS2F)
+
 ## Repository Description
 
 Final project of the [HarvardX Professional Certificate in Data Science (completed August 2019)](https://credentials.edx.org/credentials/85a07f51c8ff4172ae9b31ada7f859c5/).
