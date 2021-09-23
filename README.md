@@ -1,6 +1,6 @@
 # Illiquid Supply Floor (ISF)
 
-Model of Glassnode's illiquid supply data with Plan B's traditional Stock-to-Flow (S2F) model, creating a price floor based on Bitcoin's real-time scarcity:
+Chart of the Illiquid Supply Floor (ISF) model (in collaboration with [Will Clemente](https://twitter.com/WClementeIII)) with Plan B's traditional Stock-to-Flow (S2F) model. In combination with one another, these models serve as interesting price bands with ISF serving as a floor and S2F serving as a ceiling. 
 
 - Blue: S2F
 - Maroon: Market
