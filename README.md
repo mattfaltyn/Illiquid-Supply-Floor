@@ -1,4 +1,4 @@
-# Illiquid Stock to Flow (S2F)
+# Illiquid Stock to Flow (I-S2F)
 
 ## Repository Description
 
