@@ -4,6 +4,10 @@
 
 This combines Glassnode's illiquid supply data with Plan B's traditional S2F model, creating a price floor based on Bitcoin's real-time scarcity.
 
+- Blue: S2F
+- Maroon: BTC USD
+- Grey: ISF
+
 ## Repository Status
 Active
 
