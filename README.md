@@ -20,12 +20,12 @@ Here are the key steps that were performed in order of completion: package insta
 The movie and user effect (regularized) model proved to have the lowest RSME (0.8646166).
 
 ## Repository Status
-Complete and inactive as of August, 2019.
+Active
 
 ## Installation
 1. Download and install [R](https://www.r-project.org/).
 2. Clone this repository onto your local machine.
-3. Install and import all of the required packages.
+3. Run the R script. 
 
 ## Usage
 Execute the code in R or RStudio (guide [here](https://support.rstudio.com/hc/en-us/articles/200484448-Editing-and-Executing-Code)).
@@ -34,7 +34,7 @@ Execute the code in R or RStudio (guide [here](https://support.rstudio.com/hc/en
 
 For minor changes or suggestions, please open an issue first to discuss what you would like to change. 
 
-For larger changes or suggestions, please email Mateusz Faltyn (faltynm@mcmaster.ca). 
+For larger changes or suggestions, please email Matt Faltyn (faltyn.matt@gmail.com). 
 
 ## Technologies
 
