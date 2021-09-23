@@ -3,7 +3,7 @@
 Model of Glassnode's illiquid supply data with Plan B's traditional Stock-to-Flow (S2F) model, creating a price floor based on Bitcoin's real-time scarcity:
 
 - Blue: S2F
-- Maroon: BTC USD
+- Maroon: BTC/USD
 - Grey: ISF
 
 ![](https://github.com/MattFaltyn/Illiquid-Stock-to-Flow/blob/main/IS2F)
